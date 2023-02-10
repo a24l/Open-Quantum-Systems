@@ -1,6 +1,9 @@
 # Open-Quantum-Systems
 Contains my solutions to worksheet  from Trinity course on Open Quantum Systems
 ********
+#### LAB 1 - Quantum Dynamics of elementary systems
+-Exercises on time evolution of simple hamiltonians, algorithm for time evolution of Schrodinger equation, evolution of generalized n-qubit Hamiltonian. 
+********
 #### LAB 2 - Quantum Dynamics of Bipartite States 
 -Exercises on Quantum Dynamics with Von-Neumann Equation,Probability states of Kraus Operator, Numemrical simulation with CPTP map and multi-qubit hamiltonians.
 *******
