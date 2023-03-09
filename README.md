@@ -9,4 +9,6 @@ Contains my solutions to worksheet  from Trinity course on Open Quantum Systems
 *******
 #### LAB 3 - Quantum Dynamics of Bipartite States 
 -Exercises on Quantum Harmonic Oscillator and various operator modes, Cat states, Numerical simulations for exploring the wigner function and Husimi-Q Function, dynamical simulation of thermalization process. 
-
+*******
+#### LAB 4 - Dissipative models using Linblad EQuation
+-Exercises on Quantum models for understannding dissipation, dephasing in driven quantum systems using Lindblad equation. 
